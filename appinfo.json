@@ -1,0 +1,17 @@
+{
+  "uuid": "7d6a1da9-0671-4c51-b12d-d44f06ecab39",
+  "shortName": "cardinality",
+  "longName": "cardinality",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
